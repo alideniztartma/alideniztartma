@@ -6,7 +6,7 @@
 
 <br />
 
-I’m a 9th grade student at **Hatay Science High School**, interested in building useful tools and contributing to open-source projects.
+I’m a 10th grade student at **Hatay Science High School**, interested in building useful tools and contributing to open-source projects.
 
 ## About me
 
