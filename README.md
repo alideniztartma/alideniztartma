@@ -13,7 +13,7 @@ I’m a 10th grade student at **Hatay Science High School**, interested in build
 * 🐧 Linux (CachyOS) user
 * 🎬 Video editing with Adobe After Effects
 * 💻 Interested in open-source software development
-* 🧩 Contributed to open-source projects including NASA F’Prime and Meta React (documentation improvements, typo fixes, and minor contributions)
+* 🧩 Contributed to open-source projects including NASA F’Prime and Meta React
 * 🌐 Personal website: [https://alideniz.me](https://alideniz.me)
 
 ## Tech stack
