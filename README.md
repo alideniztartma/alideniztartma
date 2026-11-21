@@ -16,7 +16,7 @@
 
 <br>
 
-16-year-old student building open-source tools. Interested in Linux, communities, and turning small ideas into working software.
+16-year-old student building open-source tools, with 4 merged PRs to NASA F´Prime. Interested in Linux, communities, and turning small ideas into working software.
 
 <sub>🇹🇷 16 yaşında bir öğrenciyim; açık kaynak araçlar geliştiriyor, Linux ve topluluklarla ilgileniyorum.</sub>
 
@@ -26,10 +26,14 @@
 
 | Project | Contribution | PR |
 |:--|:--|:-:|
-| **NASA / F´Prime** | Python 3.10 compatibility (`timezone.utc`) | [#294](https://github.com/nasa/fprime-gds/pull/294) |
+| **NASA / F´Prime GDS** | Python 3.10 compatibility (`timezone.utc`) | [#294](https://github.com/nasa/fprime-gds/pull/294) |
+| **NASA / F´Prime** | Build status badges for reference projects | [#5045](https://github.com/nasa/fprime/pull/5045) |
+| **NASA / F´Prime** | Typo fixes in the port patterns guide | [#5020](https://github.com/nasa/fprime/pull/5020) |
+| **NASA / F´Prime** | Duplicate word and formatting fix in the intro | [#4924](https://github.com/nasa/fprime/pull/4924) |
 | **Mozilla / MDN** | Fixed the RTT glossary entry | [#43655](https://github.com/mdn/content/pull/43655) |
-| **Meta / React** | Improved `DESIGN_GOALS` docs | [#36170](https://github.com/facebook/react/pull/36170) |
+| **Meta / React** | Improved `DESIGN_GOALS` docs | [#36170](https://github.com/react/react/pull/36170) |
 | **Awesome Python** | Fixed SQLite spelling | [#3014](https://github.com/vinta/awesome-python/pull/3014) |
+| **Kana Dojo** | Added a Japanese cultural etiquette tip | [#11373](https://github.com/lingdojo/kana-dojo/pull/11373) |
 
 ---
 
