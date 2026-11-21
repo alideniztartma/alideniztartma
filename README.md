@@ -27,7 +27,7 @@
 | Project | Contribution | PR |
 |:--|:--|:-:|
 | **NASA / F´Prime GDS** | Python 3.10 compatibility (`timezone.utc`) | [#294](https://github.com/nasa/fprime-gds/pull/294) |
-| **NASA / F´Prime** | Build status badges for reference projects | [#5045](https://github.com/nasa/fprime/pull/5045) |
+| **NASA / F´Prime** | Build status badges on the [supported platforms page](https://fprime.jpl.nasa.gov/devel/docs/user-manual/framework/supported-platforms/) | [#5045](https://github.com/nasa/fprime/pull/5045) |
 | **NASA / F´Prime** | Typo fixes in the port patterns guide | [#5020](https://github.com/nasa/fprime/pull/5020) |
 | **NASA / F´Prime** | Duplicate word and formatting fix in the intro | [#4924](https://github.com/nasa/fprime/pull/4924) |
 | **Mozilla / MDN** | Fixed the RTT glossary entry | [#43655](https://github.com/mdn/content/pull/43655) |
